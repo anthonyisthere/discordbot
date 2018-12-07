@@ -1,0 +1,12 @@
+{ 
+  "debug" : false,
+  "token"  : "NTIwNjQ0MzY0MzYwMjIwNjgz.Duw4cw.MIBTGru3UYTF7HOtQiJTYezVcek",
+  "apiSite" : 1,
+  "apiUrl" : "https://api.rust-servers.info/status/1690",
+  "enableRcon" : "1",
+  "rconhost"   : "",
+  "rconport"   : "",
+  "rconpass"   : "",
+  "prefix" : "!",
+  "roles"  :  ["Administrator", "admins"]
+}
